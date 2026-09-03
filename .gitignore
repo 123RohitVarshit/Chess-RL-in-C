@@ -1,0 +1,16 @@
+# Compiled executable binaries
+*.exe
+rl_game
+rl_game.exe
+
+# Object files (created during compilation)
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.dSYM/
+
+# OS generated files (to keep the repo clean)
+.DS_Store
+Thumbs.db
